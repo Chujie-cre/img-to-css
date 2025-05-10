@@ -148,5 +148,5 @@ img-to-css/
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://kingdomofown.cn">Kingdom of Own</a></sub>
+  <sub>Made with ❤️ by <a href="https://kingdomofown.cn">雏结</a></sub>
 </div> 
