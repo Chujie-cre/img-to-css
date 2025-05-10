@@ -1,4 +1,6 @@
-# Image to CSS | 图片转CSS
+<div align="center">
+  <h1>Image to CSS | 图片转CSS</h1>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react" alt="React" />
@@ -8,7 +10,9 @@
 
 <p align="center">A powerful online image processing toolkit that supports image to CSS conversion, image editing and format conversion</p>
 
-English | [简体中文](./README.md)
+<div align="center">
+  English | <a href="./README.md">简体中文</a>
+</div>
 
 ## 🌟 Features
 
@@ -38,7 +42,7 @@ English | [简体中文](./README.md)
 
 ### Online Demo
 
-Visit [https://tools.kingdomofown.cn/img-to-css](https://tools.kingdomofown.cn/img-to-css) to experience all features immediately.
+Visit [http://img.kingdomofown.cn](http://img.kingdomofown.cn) to experience all features immediately.
 
 ### Local Installation
 
