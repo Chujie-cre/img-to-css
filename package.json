@@ -1,0 +1,54 @@
+{
+  "name": "img-to-css",
+  "version": "1.0.0",
+  "description": "Convert any image to pure css.",
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chujie-cre/img-to-css"
+  },
+  "keywords": [
+    "img-to-css",
+    "images",
+    "css",
+    "experiments",
+    "pixelart"
+  ],
+  "author": "CJ <2425739349@qq.com> (https://github.com/ChuJie-Cre)",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "dependencies": {
+    "canvas-image-utils": "^2.1.1",
+    "capsize": "^2.0.0",
+    "jbx": "^1.7.6",
+    "lodash": "^4.17.20",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.6.0",
+    "react-scripts": "^5.0.0",
+    "styled-components": "^5.3.5",
+    "tinycolor2": "^1.4.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
